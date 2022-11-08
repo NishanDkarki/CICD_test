@@ -1,0 +1,5 @@
+org/example/controller/MyController.class
+org/example/repository/ContestRepository.class
+org/example/AppStarter.class
+org/example/model/Contest.class
+org/example/services/SuperRepository.class
